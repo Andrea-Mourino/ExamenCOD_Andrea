@@ -21,4 +21,4 @@
 * En nuestras ramas deberia salirnos una ramificacio monstrando el commit que hemos hecho (con otro color)
 
 ### PASO 8
-* Con eso le damos a **Compare & pull request** y le llamamos "CommitReadMe" de nuevo (en mi caso no le puse ninguna descripcion)
+* Con eso le damos a **Compare & pull request** y le llamamos *"CommitReadMe"* de nuevo (en mi caso no le puse ninguna descripcion)
