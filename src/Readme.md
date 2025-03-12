@@ -1,4 +1,4 @@
-## RAMAS
+## Explicacion Examen Paso A Paso
 ### PASO 1
 * Entré a la URL del repositorio del profesor y hice **fork** y puse "ExamenCOD_Andrea"
 
@@ -10,3 +10,15 @@
 
 ### PASO 4
 * En **src** creé un Readme.md para explicar los pasos que estoy explicando ahora
+
+### PASO 5
+* Estando en main le damos a *GIT + Add* y luego a *Commit File*. Ponemos en el commit "CommitReadMe" y hacemos *Commit and Push* no sin antes befericar si en el *Merge* tenemos la URL en nuestro repositorio clonado
+
+### PASO 6
+* Confirmamos si a funcionado yendo a nuestro repositorio y ver un mensaje en naranja dandonos la opcion de *Compare & pull request*
+
+### PASO 7
+* En nuestras ramas deberia salirnos una ramificacio monstrando el commit que hemos hecho (con otro color)
+
+### PASO 8
+* Con eso le damos a *Compare & pull request* y le llamamos "CommitReadMe" de nuevo (en mi caso no le puse ninguna descripcion)
