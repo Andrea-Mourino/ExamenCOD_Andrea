@@ -12,13 +12,13 @@
 * En **src** creé un Readme.md para explicar los pasos que estoy explicando ahora
 
 ### PASO 5
-* Estando en main le damos a *GIT + Add* y luego a *Commit File*. Ponemos en el commit "CommitReadMe" y hacemos *Commit and Push* no sin antes befericar si en el *Merge* tenemos la URL en nuestro repositorio clonado
+* Estando en main le damos a **GIT + Add** y luego a **Commit File**. Ponemos en el commit "CommitReadMe" y hacemos **Commit and Push** no sin antes befericar si en el **Merge** tenemos la URL en nuestro repositorio clonado
 
 ### PASO 6
-* Confirmamos si a funcionado yendo a nuestro repositorio y ver un mensaje en naranja dandonos la opcion de *Compare & pull request*
+* Confirmamos si a funcionado yendo a nuestro repositorio y ver un mensaje en naranja dandonos la opcion de **Compare & pull request**
 
 ### PASO 7
 * En nuestras ramas deberia salirnos una ramificacio monstrando el commit que hemos hecho (con otro color)
 
 ### PASO 8
-* Con eso le damos a *Compare & pull request* y le llamamos "CommitReadMe" de nuevo (en mi caso no le puse ninguna descripcion)
+* Con eso le damos a **Compare & pull request** y le llamamos "CommitReadMe" de nuevo (en mi caso no le puse ninguna descripcion)
