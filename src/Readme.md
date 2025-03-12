@@ -23,5 +23,5 @@
 ### PASO 8
 * Con eso le damos a **Compare & pull request** y le llamamos *"CommitReadMe"* de nuevo (en mi caso no le puse ninguna descripcion)
 
-PASO 9
-* Para juntar todo el codigo en la main vamos GIT y a Branches para luego elegir la rama que queremos fusionar y le damos a Merge into "interface" y lo mismo con "dato"
+### PASO 9
+* Para juntar todo el codigo en la main vamos GIT y a Branches para luego elegir la rama que queremos fusionar y le damos a Merge into *"interface"* y lo mismo con *"dato"*
